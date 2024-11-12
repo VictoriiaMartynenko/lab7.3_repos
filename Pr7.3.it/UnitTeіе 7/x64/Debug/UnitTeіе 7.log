@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTeіе 7.cpp
+     Creating library C:\Users\Admin\source\repos\Pr7.3.it\x64\Debug\UnitTeіе 7.lib and object C:\Users\Admin\source\repos\Pr7.3.it\x64\Debug\UnitTeіе 7.exp
+LINK : warning LNK4232: name UnitTeіе 7.dll contains non-ASCII characters, DLL may not load on system with ANSI codepage other than 1251
+  UnitTeіе 7.vcxproj -> C:\Users\Admin\source\repos\Pr7.3.it\x64\Debug\UnitTeіе 7.dll
